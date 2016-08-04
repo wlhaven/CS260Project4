@@ -15,7 +15,6 @@ const int MAX_LEN = 256;
 void displayMenu();
 char getCommand();
 void executeCmd(char command, Collection& aCollection);
-
 void getData(Data & aVendor);
 void displayProductTypes();
 void displayEventTypes();
