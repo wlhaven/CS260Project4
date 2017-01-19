@@ -95,6 +95,6 @@ private:
 	void saveData(std::ofstream& out) const;
 	void saveData(Node * currRoot, std::ofstream& out) const;
 	void printLeaves(Node * currRoot) const;
-	int BST::height(Node * root);
+	int height(Node * root);
 };
 #endif
