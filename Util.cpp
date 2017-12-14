@@ -72,7 +72,7 @@ void executeCmd(char command, Collection & aCollection)
 			cout << "\nThe vendor \"" << key << "\" was found in the database."
 			<< endl << "Information about " << key << ": " << endl << '\t' << vendor << endl;
 		else
-			cout << endl << "There is no information about " << key << "; " << endl;
+			cout << endl << "There is no information about " << key << ". " << endl;
 		pause();
 		break;
 	case 'r':

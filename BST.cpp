@@ -229,7 +229,7 @@ void BST::saveData(char * fileName) const
 	out.open(fileName);
 	if (!out)
 	{
-		std::cerr << "Fail to open " << fileName << " for ouput!" << std::endl;
+		std::cerr << "Failed to open " << fileName << " for ouput!" << std::endl;
 		exit(1);
 	}
 	saveData(out);

@@ -9,4 +9,3 @@ Golf Crazy;503-692-7325;4;2;3 4 ;
 Hobby World;503-640-4125;4;1;4 ;
 Kite Skies;503-591-7325;4;2;3 4 ;
 Shamino Art Supplies;503-592-9873;0;1;4 ;
-Test;xxxxxxxxx;5;5;0 1 2 3 4 ;
